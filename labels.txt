@@ -1,0 +1,9 @@
+  labels = {
+        "0": "Buildings and Structures",
+        "1": "Desert",
+        "2": "Forest Area",
+        "3": "Hill or Mountain",
+        "4": "Ice Glacier",
+        "5": "Sea or Ocean",
+        "6": "Street View"
+    }
